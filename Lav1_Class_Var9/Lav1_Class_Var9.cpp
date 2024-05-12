@@ -29,10 +29,6 @@ int main()
 {    
     setlocale(LC_ALL, "Russian");
 
-   // int size;
-    //cout << "Введите размер массива: ";
-    //cin >> size;
-
     cout << "Введите три строки для первого массива и три строки для второго массива: ";cout << endl;
 
     Array arr1(3), arr2(3);
